@@ -1,0 +1,16 @@
+{
+  "name": "msme-sensor-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "repository": "",
+  "author": "Thejvanth",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}
